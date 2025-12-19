@@ -19,7 +19,7 @@ Designed to display images with seamless transitions, navigation controls, and a
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Image%20Slider/assets/images/desktop.jpg" alt="Image Slider Desktop View" width="100%" />
+<img src="Image%20Slider/images/desktop.jpg" alt="Image Slider Desktop View" width="100%" />
 
 The **Image Slider** is a modern UI component created to showcase images in a dynamic and visually appealing way.  
 It allows users to browse through images using navigation arrows or indicators, making it ideal for hero sections, galleries, and featured content areas.
