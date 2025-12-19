@@ -1,12 +1,7 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Image Slider Logo" width="120" />
-
-<br /><br />
 
 ## 🖼️ Image Slider  
 A smooth, interactive, and fully responsive **Image Slider / Carousel UI** built using HTML, CSS, and JavaScript.  
