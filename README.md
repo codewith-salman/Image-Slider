@@ -9,17 +9,12 @@
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/image-slider?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://image-slider-eight-vert.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
-<br />
-
-<!-- 🔰 PROJECT LOGO -->
-<img src="Image%20Slider/images/desktop.jpg" alt="Image Slider Logo" width="120"/>
-
-<br />
 <br />
 
 <h1 align="center">🖼️ Image Slider</h1>
