@@ -15,7 +15,6 @@
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
-<br />
 
 <h1 align="center">🖼️ Image Slider</h1>
 
@@ -52,8 +51,7 @@ It allows users to browse through images using navigation arrows or indicators, 
 This project demonstrates your understanding of **JavaScript interactivity, CSS transitions, responsive layouts, and reusable UI components**.  
 The slider is lightweight, customizable, and can be easily integrated into websites such as portfolios, landing pages, or product showcases.
 
-Ideal for:
-- Hero sections and banners  
+Ideal for: 
 - Image galleries  
 - Product showcases  
 - Portfolio websites  
