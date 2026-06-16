@@ -57,7 +57,6 @@ Ideal for:
 - Portfolio websites  
 - UI component practice  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -71,17 +70,13 @@ Ideal for:
 - Lightweight and easy to customize  
 - Cross-browser compatible  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- **JavaScript (Vanilla)** 
 
 ---
 
