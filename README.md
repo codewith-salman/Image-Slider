@@ -63,8 +63,7 @@ Ideal for:
 
 - Fully responsive image slider  
 - Smooth slide transitions and animations  
-- Navigation arrows and indicators  
-- Auto-slide functionality (optional)  
+- Navigation arrows and indicators    
 - Clean and modern design  
 - Lightweight and easy to customize  
 - Cross-browser compatible  
