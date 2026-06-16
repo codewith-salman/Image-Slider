@@ -53,8 +53,7 @@ The slider is lightweight, customizable, and can be easily integrated into websi
 
 Ideal for: 
 - Image galleries  
-- Product showcases  
-- Portfolio websites  
+- Product showcases   
 - UI component practice  
 
 
